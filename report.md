@@ -12,20 +12,25 @@ existing inequalities and, as decades of research have shown, were directly resp
 for making them worse.
 
 ## Data Viz Biography
-**1. Who or what institution produced the visualization?**  return
+**1. Who or what institution produced the visualization?**
+
 *Source:* Catherine D'Ignazio, Lauren Klein, *Data Feminism*. 
 *Credit:*  Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” in American Panorama, ed. Robert K. Nelson and Edward L. Ayers
 
-**2. When was it produced?**  return
+**2. When was it produced?**
+
 Originally, this visualization was produced in 1939.
 
-**3. Who is the audience for the visualization?**  return
+**3. Who is the audience for the visualization?**
+
 This visualization was intended for banks to use as a way to "safely" decide whether or not a person should receive a loan or not. I use the word very "safely" loosely, because as I will explain in questions 4 and 5, this visualization was not safe at all. In fact, it made already existing stigmas against minorities more concrete at the time.
 
-**4. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**  return
+**4. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
+
 There is plenty of room for misinterpretation in analyzing this visualization. In the book Data Feminism, it is mentioned that the all the areas that are shaded red in this map are Black neighborhoods of Detroit. This could easily lead banks to make the decision that Black people should not be granted loans. Historically, this is exactly what happened due to maps like these. Instead of using individual credibility to assess eligibility for loans, banks used neighborhood demographics, which specifically targeted Black people.
 
 :heart: [Source: Data Feminism by Catherine D'Ignazio and Lauren Klein](https://direct.mit.edu/books/book/4660/Data-Feminism)
 
-**5. How, if at all, does the data visualization represent power or systems? [10 points]**  return
+**5. How, if at all, does the data visualization represent power or systems?**
+
 This data visualization represents power, but more specifically, malice. This map was designed by wealthy people to uphold discrimination and oppression, and to keep minorities prone to poverty from rising financially. Denying loans to specifically targeted minorities largely facilitated the worsening of oppression and injustice.
