@@ -25,7 +25,7 @@ PS C:\Users\sabri\OneDrive\Desktop\info201_Exercises\a0-basic-tools-sabriyahMors
 git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-git commit -m "This update will add changes to the file by adding answers to all the questions in the git-commands markdown file."
+git commit -m "commands w/ answers"
 
 # (9) Finally, push your changes to GitHub [1 point]
 git push
