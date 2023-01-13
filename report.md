@@ -3,9 +3,9 @@
 *January 12, 2023*
 
 ## Data Viz Summary
-![The Residential Security Map is a redlining map of Detroit.](map.png)
+![](map.png)
 
-For reference, redlining refers to the practice of banks rating the risk of granting loans to possible homeowners based on their neighborhoods. The Residential Security Map was published in 1939. It is a collaboration between the Detroit Chamber of Commerce and the Federal Home Loan Bank Board, and was designed to help banks determine who they would grant loans to. This map was poorly designed and executed, disproportionately targeting minorities. Risky neighborhoods are indicated by red shading, while blue represents the "safest" neighborhoods. 
+The Residential Security Map is a redlining map of Detroit. Redlining refers to the practice of banks rating the risk of granting loans to possible homeowners based on their neighborhoods. The Residential Security Map was published in 1939. It is a collaboration between the Detroit Chamber of Commerce and the Federal Home Loan Bank Board, and was designed to help banks determine who they would grant loans to. This map was poorly designed and executed, disproportionately targeting minorities. Risky neighborhoods are indicated by red shading, while blue represents the "safest" neighborhoods. 
 > All of Detroit’s Black neighborhoods fall into red areas on this map because housing discrimination and other forms of structural oppression predated the practice. But
 denying home loans to the people who lived in these neighborhoods reinforced those
 existing inequalities and, as decades of research have shown, were directly responsible
