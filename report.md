@@ -14,6 +14,8 @@ for making them worse.
 ## Data Viz Biography
 **1. Who or what institution produced the visualization?**
 
+The credits for this visualization is cited below:
+
 *Source:* Catherine D'Ignazio, Lauren Klein, *Data Feminism*. 
 *Credit:*  Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” in American Panorama, ed. Robert K. Nelson and Edward L. Ayers
 
@@ -27,10 +29,12 @@ This visualization was intended for banks to use as a way to "safely" decide whe
 
 **4. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
 
-There is plenty of room for misinterpretation in analyzing this visualization. In the book Data Feminism, it is mentioned that the all the areas that are shaded red in this map are Black neighborhoods of Detroit. This could easily lead banks to make the decision that Black people should not be granted loans. Historically, this is exactly what happened due to maps like these. Instead of using individual credibility to assess eligibility for loans, banks used neighborhood demographics, which specifically targeted Black people.
-
-:heart: [Source: Data Feminism by Catherine D'Ignazio and Lauren Klein](https://direct.mit.edu/books/book/4660/Data-Feminism)
+There is plenty of room for misinterpretation in analyzing this visualization. In the book Data Feminism, it is mentioned that the all the areas that are shaded red in this map are Black neighborhoods of Detroit. This could easily lead banks to make the decision that Black people should not be granted loans. Historically, this is exactly what happened due to visualizations like these. Instead of using individual credibility to assess eligibility for loans, banks used neighborhood demographics, which specifically targeted Black people.
 
 **5. How, if at all, does the data visualization represent power or systems?**
 
 This data visualization represents power, but more specifically, malice. This map was designed by wealthy people to uphold discrimination and oppression, and to keep minorities prone to poverty from rising financially. Denying loans to specifically targeted minorities largely facilitated the worsening of oppression and injustice.
+
+**NOTE:** All information referenced and cited on this page was taken from the book *Data Feminism*, written by Catherine D'Iglazio and Lauren Klein. A free-access pdf of this book can be downloaded by following the instructions from the link below.
+
+:heart: [Data Feminism](https://direct.mit.edu/books/book/4660/Data-Feminism)
