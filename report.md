@@ -14,7 +14,7 @@ for making them worse.
 ## Data Viz Biography
 **1. Who or what institution produced the visualization?**
 
-The credits for this visualization is cited below:
+The credits for this visualization are cited below:
 
 *Source:* Catherine D'Ignazio, Lauren Klein, *Data Feminism*. 
 *Credit:*  Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” in American Panorama, ed. Robert K. Nelson and Edward L. Ayers
